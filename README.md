@@ -2,7 +2,7 @@
 
 
 - 🔭 I am currently in the third semester of Software Engineering college, I am not working at the moment but looking to gain knowledge and experience.
-- 🌱 I am currently studying JavaScript, React, Node Js, C, HTML and CSS.
+- 🌱 I am currently studying JavaScript, TypeScript, Node Js, HTML and CSS.
 
 <div>
   <a href="https://github.com/matheus-corbellini">
