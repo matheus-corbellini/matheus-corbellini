@@ -7,7 +7,7 @@
 <div>
   <a href="https://github.com/matheus-corbellini">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheus-corbellini&show_icons=true&theme=white&include_all_commits=true&count_private=true&cache_seconds=1800" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-corbellini&layout=compact&langs_count=16&theme=white" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-corbellini&layout=compact&langs_count=8&theme=white" />
   </a>
 </div>
 
