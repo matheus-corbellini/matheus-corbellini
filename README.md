@@ -4,11 +4,10 @@
 - 🔭 I am currently in the third semester of Software Engineering college, I am not working at the moment but looking to gain knowledge and experience.
 - 🌱 I am currently studying JavaScript, TypeScript, Node Js, HTML and CSS.
 
-<div align="center">
+<div>
   <a href="https://github.com/matheus-corbellini">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheus-corbellini&show_icons=true&theme=white&include_all_commits=true&count_private=true" />
-    <br />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-corbellini&layout=compact&langs_count=8&theme=white" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheus-corbellini&show_icons=true&theme=white&include_all_commits=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-corbellini&layout=compact&langs_count=16&theme=white" />
   </a>
 </div>
 
