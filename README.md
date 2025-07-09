@@ -1,7 +1,7 @@
 ## Hi! My name is Matheus Corbellini
 
 
-- 🔭 I am currently in the third semester of Software Engineering college, I am not working at the moment but looking to gain knowledge and experience.
+- 🔭 I am currently in the third semester of Software Engineering college, I'm working as a software developer in Borderless .
 - 🌱 I am currently studying JavaScript, TypeScript, Node Js, HTML and CSS.
 
 <div>
