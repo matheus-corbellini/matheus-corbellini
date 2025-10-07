@@ -2,7 +2,7 @@
 
 
 - 🔭 I am currently in the third semester of Software Engineering college, I'm working as a software developer at Borderless .
-- 🌱 I am currently studying JavaScript, TypeScript, Node Js, HTML and CSS.
+- 🌱 I am currently studying React, Node Js, Tailwind and Python.
 
 <div>
   <a href="https://github.com/matheus-corbellini">
